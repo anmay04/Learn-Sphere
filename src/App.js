@@ -29,6 +29,7 @@ import ViewCourse from "./pages/ViewCourse";
 import VideoDetails from "./components/core/ViewCourse/VideoDetails";
 import Instructor from "./components/core/Dashboard/InstructorDashboard/Instructor";
 
+
 function App() {
 
   const dispatch = useDispatch();
@@ -161,6 +162,7 @@ function App() {
 
 
       </Routes>
+
 
     </div>
   );

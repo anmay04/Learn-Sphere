@@ -14,6 +14,7 @@ import HighlightText from "../components/core/HomePage/HighlightText"
 import InstructorSection from "../components/core/HomePage/InstructorSection"
 import LearningLanguageSection from "../components/core/HomePage/LearningLanguageSection"
 import TimelineSection from "../components/core/HomePage/TimelineSection"
+import ChatBot from "../components/chatBot/ChatBot"
 
 function Home() {
   return (
@@ -187,6 +188,7 @@ function Home() {
         </h1>
         <ReviewSlider />
       </div>
+      <ChatBot />
 
       {/* Footer */}
       <Footer />
