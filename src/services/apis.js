@@ -1,5 +1,4 @@
-const BASE_URL = "learn-spherebackend.vercel.app
-"
+const BASE_URL = "learn-spherebackend.vercel.app"
 
 // AUTH ENDPOINTS
 export const endpoints = {
